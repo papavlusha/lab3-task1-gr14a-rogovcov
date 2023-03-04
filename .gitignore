@@ -51,3 +51,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+#task
+lab-rabota3-1
